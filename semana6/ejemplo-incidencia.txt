@@ -1,0 +1,4 @@
+{
+  "tipo": "Agua potable",
+  "descripcion": "La comunidad reporta que hay una fuga en la pluma del parque no han venido a reperar el daño y ya tiene varios días."
+}

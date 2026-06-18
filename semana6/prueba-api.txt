@@ -1,0 +1,6 @@
+La respuesta del servidor al ser ejecutado me responde 
+con el seguiente mensaje 
+
+"Estado" : "MENSAJE RECIBIDOS"
+"NOMBRE": "Maria"
+"mensaje": "hola comunidad"
